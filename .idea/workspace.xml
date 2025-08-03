@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b4fd5f3-b491-4fea-b1ce-626dcd06e415" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/fyersjavasdk.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/AlgoTradeApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/authenticator/FyersInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/config/WebSocketConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/controller/CombinedValueBroadcaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/controller/WeeklyIronFlyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/entity/TradeGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/entity/TradeLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/pojo/Candle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/pojo/LiveCandle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/pojo/OptionChainEntry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/repo/TradeGroupRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/repo/TradeLogRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/strategy/LiveData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/strategy/WeeklyIronFly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/utility/AccessToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/utility/FyersUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/utility/HistoricalData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/utility/OptionGreeks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/FyersJava/AlgoTrade/utility/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/FyersJava/AlgoTrade/AlgoTradeApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2zqszDwt3JYkFxh8j2wzdOnnHUS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlgoTradeApplication.executor": "Run",
+    "Application.App.executor": "Run",
+    "Application.LiveData.executor": "Run",
+    "Maven.AlgoTrade [clean].executor": "Run",
+    "Maven.AlgoTrade [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Projects/AlgoTrades/AlgoTrade/src/main/java/com/FyersJava/AlgoTrade",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\AlgoTrades\AlgoTrade\src\main\java\com\FyersJava\AlgoTrade" />
+      <recent name="C:\Projects\AlgoTrades\AlgoTrade" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.FyersJava.AlgoTrade.utility" />
+      <recent name="com.FyersJava.AlgoTrade.strategy" />
+      <recent name="com.FyersJava.AlgoTrade.pojo" />
+      <recent name="com.FyersJava.AlgoTrade" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="AlgoTradeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.FyersJava.AlgoTrade.AlgoTradeApplication" />
+      <module name="AlgoTrade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.FyersJava.AlgoTrade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.FyersJava.AlgoTrade.App" />
+      <module name="AlgoTrade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.FyersJava.AlgoTrade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiveData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.FyersJava.AlgoTrade.strategy.LiveData" />
+      <module name="AlgoTrade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.FyersJava.AlgoTrade.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.LiveData" />
+        <item itemvalue="Application.AlgoTradeApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b4fd5f3-b491-4fea-b1ce-626dcd06e415" name="Changes" comment="" />
+      <created>1752470202127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752470202127</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/repo/fyersjavasdk.jar!/com/tts/in/websocket/FyersSocket.class</url>
+          <line>236</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
